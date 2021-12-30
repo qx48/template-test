@@ -4,7 +4,7 @@ This is my project! Enjoy!
 It's simple, just run in any browser! Enjoy!
 ### Thank you!
 <!-- Code Blocks -->
-``` bash
+```bash
 npm install
 
 npm start
