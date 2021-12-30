@@ -19,4 +19,5 @@ int numbers(num 1, num 2) {
 return num1 + num2; 
 }
 ```
-[Markdown Logo](https://markdown-here.com/img/icon256.png)
+<!-- Images -->
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
