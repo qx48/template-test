@@ -14,3 +14,8 @@ function add(num 1, num 2) {
 return num1 + num2; 
 }
 ```
+```C
+int numbers(num 1, num 2) {
+return num1 + num2; 
+}
+```
