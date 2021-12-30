@@ -21,3 +21,4 @@ return num1 + num2;
 ```
 <!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
+![Markdown Logo](https://markdown-here.com/img/icon256.png){:height="50px" width="50px"}
