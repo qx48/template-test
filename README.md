@@ -85,3 +85,11 @@ Video:
 <img src="" width="50" height="50">
 </p>
 
+```diff
+- text in red
++ text in green 
+! text in orange
+# text in grey
+@@ text in purple (and hold)@@ 
+```
+
