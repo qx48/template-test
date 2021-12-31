@@ -165,6 +165,16 @@ SQL> DESC CUSTOMERS;
 
 [![qx48's GitHub stats](https://github-readme-stats.vercel.app/api?username=qx48&theme=tokyonight)](https://github.com/qx48/github-readme-stats)
 
+<!-- One video below the other-->
+<!-- Youtube Video -->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
+alt="Youtube Video" width="240" height="180" border="10" /></a>
+<!-- Youtube Video -->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
+alt="Youtube Video" width="240" height="180" border="10" /></a>
+
+
+<!--Videos next to each other-->
 <p float="left">
 <!-- Youtube Video -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
