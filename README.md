@@ -111,3 +111,6 @@ $npm run
 ```php
 <?php echo "Hello!"; ?>
 ```
+```sql
+SELECT * FROM myTable;
+```
