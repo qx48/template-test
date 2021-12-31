@@ -154,4 +154,6 @@ SQL> DESC CUSTOMERS;
 <img src="https://devartcdn.azureedge.net/views/content/products/dbforge/mysql/studio/images/overview-database-design.png">
 <img src="https://devartcdn.azureedge.net/views/content/products/dbforge/mysql/studio/images/overview-database-design.png" width="50%" height="50%">
 
-:mailbox: 
+:mailbox:
+:email: example@example.com
+
