@@ -28,4 +28,4 @@ return num1 + num2;
 <img src="https://markdown-here.com/img/icon256.png" width="150" height="150">
 <img src="https://markdown-here.com/img/icon256.png" width="-50%" height="-50%">
 <img src="https://markdown-here.com/img/icon256.png">
-<span style="color=red;">This is text.</span>
+<span style="color: red;">This is text.</span>
