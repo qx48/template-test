@@ -32,3 +32,6 @@ return num1 + num2;
 
 <h1>This is a heading</h1>
 <h2>This is a heading</h2>
+
+<p style="color: red;">This is text.</p>
+<p style="color: red">This is text.</p>
