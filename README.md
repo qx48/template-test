@@ -161,3 +161,7 @@ SQL> DESC CUSTOMERS;
 
 [![qx48's GitHub stats](https://github-readme-stats.vercel.app/api?username=qx48&theme=tokyonight)](https://github.com/qx48/github-readme-stats)
 
+<!-- Youtube Video -->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
