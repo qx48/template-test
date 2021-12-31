@@ -183,3 +183,16 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
 alt="Youtube Video" width="240" height="180" border="10" /></a>
 </p>
+
+## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/qx48/github-readme-stats"><img alt="qx48's Github Stats" src="https://github-readme-stats.vercel.app/api?username=qx48&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <a href="https://github.com/qx48/github-readme-stats"><img alt="qx48's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qx48&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
