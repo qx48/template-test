@@ -114,3 +114,25 @@ $npm run
 ```sql
 SELECT * FROM myTable;
 ```
+```sql
+mysql> SELECT * FROM myTable;
+```
+result:
+```sql
+IF EXISTS (SELECT * FROM INFORMATION_SCHEMA.TABLES
+    WHERE TABLE_NAME = N'Persons')
+BEGIN
+DROP TABLE Persons
+END
+GO
+CREATE TABLE  [Persons]
+([Id]      [INT]
+PRIMARY KEY, 
+[Name]    [VARCHAR](50) NOT NULL, 
+[SurName] [VARCHAR](50) NOT NULL, 
+[Age]     [SMALLINT] NOT NULL
+)
+ 
+GO
+SELECT * FROM Persons
+```
