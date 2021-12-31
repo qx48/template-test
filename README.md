@@ -101,6 +101,6 @@ Video:
 ![Cover image](https://user-images.githubusercontent.com/96824489/147817214-f8c7e302-91ac-4599-9fff-7aa0f15999eb.jpg)
 
 <img src="https://user-images.githubusercontent.com/96824489/147817214-f8c7e302-91ac-4599-9fff-7aa0f15999eb.jpg" width="150" height="150">
-<p style="color: red;">This is a picture of my embedded systems project.</p>
+<p style="color: lime;">This is a picture of my embedded systems project.</p>
 
 
