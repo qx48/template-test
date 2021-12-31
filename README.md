@@ -168,4 +168,7 @@ SQL> DESC CUSTOMERS;
 <!-- Youtube Video -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
 alt="Youtube Video" width="240" height="180" border="10" /></a>
+<!-- Youtube Video -->
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
+alt="Youtube Video" width="240" height="180" border="10" /></a>
 
