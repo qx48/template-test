@@ -159,5 +159,5 @@ SQL> DESC CUSTOMERS;
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-[![qx48's GitHub stats](https://github-readme-stats.vercel.app/api?username=qx48)](https://github.com/qx48/github-readme-stats&theme=tokyonight)
+[![qx48's GitHub stats](https://github-readme-stats.vercel.app/api?username=qx48&theme=tokyonight)](https://github.com/qx48/github-readme-stats)
 
