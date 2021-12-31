@@ -104,4 +104,8 @@ Video:
 <p style="color: lime;">This is a picture of my embedded systems project.</p>
 <p>Thank you for visiting my website!</p>
 
+```bash
+$npm start
+$npm run
+```
 
