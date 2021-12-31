@@ -136,3 +136,18 @@ PRIMARY KEY,
 GO
 SELECT * FROM Persons
 ```
+result:
+
+```sql
+SQL> DESC CUSTOMERS;
++---------+---------------+------+-----+---------+-------+
+| Field   | Type          | Null | Key | Default | Extra |
++---------+---------------+------+-----+---------+-------+
+| ID      | int(11)       | NO   | PRI |         |       |
+| NAME    | varchar(20)   | NO   |     |         |       |
+| AGE     | int(11)       | NO   |     |         |       |
+| ADDRESS | char(25)      | YES  |     | NULL    |       |
+| SALARY  | decimal(18,2) | YES  |     | NULL    |       |
++---------+---------------+------+-----+---------+-------+
+5 rows in set (0.00 sec)
+```
