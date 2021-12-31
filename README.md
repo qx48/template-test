@@ -57,8 +57,14 @@ Video:
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="50" height="50">
 <img src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" width="50" height="50">  
 <img src="https://raw.githubusercontent.com/github/explore/d0c5a5e31e1776ad62379ef5f6b703bcf107d3a3/topics/symfony/symfony.png" width="50" height="50"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" width="50" height="50"> 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50" height="50">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" width="50" height="50"> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Nuxt_logo.svg" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50"> 
+<img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50"> 
 <img src="" width="50" height="50">
