@@ -29,3 +29,6 @@ return num1 + num2;
 <img src="https://markdown-here.com/img/icon256.png" width="-50%" height="-50%">
 <img src="https://markdown-here.com/img/icon256.png">
 <p style="color: red;">This is text.</p>
+
+<h1>This is a heading</h1>
+<h2>This is a heading</h2>
