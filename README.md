@@ -226,6 +226,12 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=qx48">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/qx48?tab=followers"><img src="https://img.shields.io/github/followers/qx48?label=Followers&style=social" alt="GitHub Badge"></a>
+
+<p align="center">
+    <a href="https://github.com/qx48/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="qx48's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=qx48&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
