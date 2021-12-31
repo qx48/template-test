@@ -36,8 +36,6 @@ return num1 + num2;
 <p style="color: red;">This is text.</p>
 <p style="color: red">This is text.</p>
 
-## Video
-
-Drag and drop videos:
+Video:
 
 https://www.youtube.com/watch?v=Y1z7_GfEPiE
