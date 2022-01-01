@@ -1,13 +1,13 @@
 # Ridiculously Amazing Web Application
 
-If anyone wants to send me a donation, feel free to do so at: example@example.com.
+If anyone want to send me a donation, feel free to do so at: example@example.com.
 
+<!--1. [Thank you!](#3.-Thank-you!)--> <!-- error because of dot after 3-->
 ## 0. Index
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
-<!--1. [Thank you!](#3.-Thank-you!)--> <!-- error because of dot after 3-->
 1. [Thank you!](#3-Thank-you!)
-2. 
+
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
 
