@@ -3,7 +3,6 @@
 If anyone wants to send me a donation, feel free to do so at: example@example.com.
 
 ## 0. Index
-1. [Description](#1-description)
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
 1. [3. Thank you!](#3.-Thank-you!)
