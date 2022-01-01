@@ -78,7 +78,7 @@ Video:
 <img src="http://hr.wiwo-touchpanel.com/Content/upload/2019332127/201903261040025256672.png" width="50" height="50">
 <img src="https://lora-alliance.org/wp-content/uploads/2018/02/MicrochipTechnologyInc-344x200.png" width="50" height="50">
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/original/115a26d1dd15eb9dc31b93fc1032b8ce9c1d3e3c/develop-web-services-from-spring-framework.png" width="50" height="50">
-<img src="" width="50" height="50">
+<img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
