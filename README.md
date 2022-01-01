@@ -254,3 +254,5 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
 This is some text Add the following xml to all the `config.xml` `This is what it is`
 <!-- Bullet point -->
 * This is an example of a bullet point.
+
+This is some text and then this `well, this is a code snippet`
