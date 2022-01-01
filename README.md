@@ -250,3 +250,5 @@ alt="Youtube Video" width="240" height="180" border="10" /></a>
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="qx48's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=qx48&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
+
+This is some text Add the following xml to all the `config.xml` `This is what it is`
