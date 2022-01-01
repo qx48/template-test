@@ -1,7 +1,7 @@
-# Index  
-1. [Introduction](#0. Introduction)
+## 0. Index
+1. [Introduction](#1. Introduction)
 
-# 0. Introduction
+## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
 
 # template-test
