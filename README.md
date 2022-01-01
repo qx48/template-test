@@ -6,7 +6,7 @@ If anyone want to send me a donation, feel free to do so at: example@example.com
 ## 0. Index
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
-1. [Thank you!](#3.-Thank-you)
+1. [Thank you!](#3-Thank-you)
 
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
