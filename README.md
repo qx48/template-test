@@ -1,12 +1,13 @@
 # Ridiculously Amazing Web Application
 
-If anyone want to send me a donation, feel free to do so at: example@example.com.
+If you would like to make a donation to me feel free to do so at: example@example.com.
 
 <!--1. [Thank you!](#3.-Thank-you!)--> <!-- error because of dot after 3 and exclamation mark-->
 ## 0. Index
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
 1. [Thank you!](#3-Thank-you)
+1. [Youtube Video Demonstration](#4-Youtube)
 
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
@@ -51,7 +52,7 @@ return num1 + num2;
 <p style="color: red">This is text.</p>
 
 Video:
-
+## 4. Youtube Video Demonstration 
 ![youtube](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
 ![youtube](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
