@@ -1,5 +1,6 @@
 ## 0. Index
-1. [Introduction](#1. Introduction)
+1. [Description](#1-description)
+1. [Introduction](#1-Introduction)
 
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
