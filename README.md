@@ -53,7 +53,7 @@ return num1 + num2;
 <p style="color: red">This is text.</p>
 
 Video:
-## 4. Youtube Video Demonstration 
+
 ![youtube](https://www.youtube.com/watch?v=Y1z7_GfEPiE)
 ![youtube](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
 
@@ -177,6 +177,7 @@ SQL> DESC CUSTOMERS;
 
 [![qx48's GitHub stats](https://github-readme-stats.vercel.app/api?username=qx48&theme=tokyonight)](https://github.com/qx48/github-readme-stats)
 
+## 4. Youtube Video Demonstration 
 <!-- One video below the other-->
 <!-- Youtube Video -->
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=KhGWbt1dAKQ" target="_blank"><img src="http://img.youtube.com/vi/KhGWbt1dAKQ/0.jpg" 
