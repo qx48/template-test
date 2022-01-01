@@ -7,7 +7,8 @@ If you would like to make a donation to me feel free to do so at: example@exampl
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
 1. [Thank you!](#3-Thank-you)
-1. [Youtube Video Demonstration](#4-Youtube)
+1. [Youtube Video Demonstration](#4-youtube-video-demonstration)
+
 
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
