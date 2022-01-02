@@ -256,3 +256,6 @@ This is some text Add the following xml to all the `config.xml` `This is what it
 * This is an example of a bullet point.
 
 This is some text and then this `well, this is a code snippet`
+
+<center>Thank you for visiting my project!</center> 
+<center>If you have any questions feel free to contact me at: example@example.com</center>
