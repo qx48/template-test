@@ -258,4 +258,6 @@ This is some text Add the following xml to all the `config.xml` `This is what it
 This is some text and then this `well, this is a code snippet`
 
 Thank you for visiting my project!            
-If you have any questions feel free to contact me at: example@example.com
+If you have any questions feel free to contact me at: example@example.com   
+
+<summary><b>Expand Table of Contents</b></summary>
