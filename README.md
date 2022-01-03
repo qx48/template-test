@@ -416,3 +416,8 @@ If you have any questions feel free to contact me at: example@example.com
 <h1>React+TypeScript Cheatsheets</h1>
 <p>Cheatsheets for experienced React developers getting started with TypeScript</p>
 </div>
+
+<div align="center">
+<h1>This is a centered header</h1>
+<p>This is some centered text</p>
+</div>
