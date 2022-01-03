@@ -1,7 +1,7 @@
 # Ridiculously Amazing Web Application
 
 If you would like to make a donation, feel free to do so at: example@example.com. Much appreciated!
-
+<details>
 <summary>
 <!--1. [Thank you!](#3.-Thank-you!)--> <!-- error because of dot after 3 and exclamation mark-->
 ## 0. Index
@@ -11,6 +11,7 @@ If you would like to make a donation, feel free to do so at: example@example.com
 1. [Youtube Video Demonstration](#4-youtube-video-demonstration)
 1. [Screenshots](#5-screenshots)
 </summary>
+</details>
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
 
