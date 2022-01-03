@@ -260,8 +260,9 @@ This is some text and then this `well, this is a code snippet`
 Thank you for visiting my project!            
 If you have any questions feel free to contact me at: example@example.com   
 
+<details>
 <summary><b>Expand Table of Contents</b></summary>
-
+</details>
 
 <details>
 
