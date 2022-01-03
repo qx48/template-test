@@ -2,9 +2,10 @@
 
 If you would like to make a donation, feel free to do so at: example@example.com. Much appreciated!
 <details>
-<summary>show/hide</summary>
-- [Introduction](#1-Introduction)
-- 1. [template-test](#2-template-test)
+<summary>Show/Hide Index</summary>
+    
+1. [Introduction](#1-Introduction)
+1. [template-test](#2-template-test)
 1. [Thank you!](#3-Thank-you)
 1. [Youtube Video Demonstration](#4-youtube-video-demonstration)
 1. [Screenshots](#5-screenshots)
