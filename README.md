@@ -2,16 +2,25 @@
 
 If you would like to make a donation, feel free to do so at: example@example.com. Much appreciated!
 <details>
-<summary>
+<summary>show/hide</summary>
+- [Introduction](#1-Introduction)
+- 1. [template-test](#2-template-test)
+1. [Thank you!](#3-Thank-you)
+1. [Youtube Video Demonstration](#4-youtube-video-demonstration)
+1. [Screenshots](#5-screenshots)
+    
+
+</details>
 <!--1. [Thank you!](#3.-Thank-you!)--> <!-- error because of dot after 3 and exclamation mark-->
+
 ## 0. Index
 1. [Introduction](#1-Introduction)
 1. [template-test](#2-template-test)
 1. [Thank you!](#3-Thank-you)
 1. [Youtube Video Demonstration](#4-youtube-video-demonstration)
 1. [Screenshots](#5-screenshots)
-</summary>
-</details>
+
+
 ## 1. Introduction
 Hello everyone! My name is qt48 and I write code! Oh yeahhhh!
 
