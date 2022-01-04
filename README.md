@@ -104,7 +104,7 @@ Video:
 <img src="https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/104961974/original/115a26d1dd15eb9dc31b93fc1032b8ce9c1d3e3c/develop-web-services-from-spring-framework.png" width="50" height="50">
 <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50" height="50">
 <img src="https://react.semantic-ui.com/logo.png" width="50" height="50">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png" width="50" height="50">
+<img src="https://www.htmltutsplus.com/wp-content/uploads/2017/01/jquery.gif" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
