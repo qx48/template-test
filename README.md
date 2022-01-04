@@ -105,7 +105,7 @@ Video:
 <img src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png" width="50" height="50">
 <img src="https://react.semantic-ui.com/logo.png" width="50" height="50">
 <img src="https://www.htmltutsplus.com/wp-content/uploads/2017/01/jquery.gif" width="50" height="50">
-<img src="" width="50" height="50">
+<img src="https://www.acailabs.com/wp-content/uploads/2015/04/ajax_web_development.jpg" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
