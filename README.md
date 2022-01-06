@@ -107,7 +107,7 @@ Video:
 <img src="https://www.htmltutsplus.com/wp-content/uploads/2017/01/jquery.gif" width="50" height="50">
 <img src="https://www.acailabs.com/wp-content/uploads/2015/04/ajax_web_development.jpg" width="50" height="50">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx-Gv6eLURSV0DSzRGl89uuptcHLVWLO7zAA&usqp=CAU" width="50" height="50">
-<img src="" width="50" height="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
 <img src="" width="50" height="50">
